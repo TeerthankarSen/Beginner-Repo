@@ -29,5 +29,7 @@ Format
 ## [Zachary Moseti](https://github.com/ZachyDev)
 
 ## [Aryan Patel](https://github.com/patelaryan7751/)
+## [Teerthankar Sen](https://github.com/TeerthankarSen/)
+
 
 
